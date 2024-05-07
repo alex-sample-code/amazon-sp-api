@@ -9,8 +9,11 @@ SP-API提供了程序化的方式帮助亚马逊卖家优化业务流程，提�
 
 ## 三：SP-API开通流程和部分使用参考
 如何对接亚马逊电商Selling Partner API：https://aws.amazon.com/cn/blogs/china/how-to-connect-with-amazon-e-commerce-selling-partner-api/
+
 创建SP-API第三方登录应用并完成API Call: https://aws.amazon.com/cn/blogs/china/create-sp-api-third-party-login-application-and-complete-api-call/
+
 SP-API 中 Notifications API 结合 Amazon SQS 使用的详细教程：https://aws.amazon.com/cn/blogs/china/detailed-tutorial-on-the-use-of-notifications-api-in-sp-api-with-amazon-sqs/
+
 SP-API 中 Notifications API 结合 Amazon EventBridge 使用的详细教程：https://aws.amazon.com/cn/blogs/china/detailed-tutorial-on-the-use-of-notifications-api-with-amazon-eventbridge-in-sp-api/
 
 ## 四：SP-API SDK接口文档
